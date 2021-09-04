@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&title=VISIT)](https://github.com/chanhl22)&nbsp;
+<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/chanhl22%2Fgjbae1212%2Fhit-counter&title=VISIT)](https://github.com/chanhl22)&nbsp;-->
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=lch9502)](https://solved.ac/lch9502)  
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
