@@ -12,8 +12,13 @@
 ___
   
   
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=chanhl22&show_icons=true&theme=radical">
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lch9502">
+![chanhee's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanhl22&show_icons=true&theme=radical)
+
+
+<br/>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=lch9502)](https://solved.ac/lch9502)
 
 
 <!--
