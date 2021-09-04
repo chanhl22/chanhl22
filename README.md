@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/chanhl22%2Fgjbae1212%2Fhit-counter&title=VISIT)](https://github.com/chanhl22)&nbsp;-->
+<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/chanhl22%2Fgjbae1212%2Fhit-counter&title=VISIT)](https://github.com/chanhl22)&nbsp;
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=lch9502)](https://solved.ac/lch9502)  
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>&nbsp; 
 <img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp;
-
+-->
 ___
   
   
@@ -17,8 +17,8 @@ ___
 
 <br/>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=lch9502)](https://solved.ac/lch9502)
+<!--[![Solved.ac
+프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=lch9502)](https://solved.ac/lch9502)-->
 
 
 <!--
