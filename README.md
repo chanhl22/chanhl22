@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=Spring Boot&logoColor=white"/></a>&nbsp; 
 <img src="https://img.shields.io/badge/Javascript-000000?style=plastic&logo=Javascript&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=plastic&logo=AWS&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=Amazon AWS&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"/></a>&nbsp;
 
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/chanhl22%2Fgjbae1212%2Fhit-counter&title=VISIT)](https://github.com/chanhl22)&nbsp;
