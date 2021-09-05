@@ -1,8 +1,8 @@
 <!--![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)-->
 
 ### Hi there 👋  
-<!--[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-A9225C?style=plastic&logo=Notion&link=https://near-apparatus-275.notion.site/ee18830c71e144359e3d07d4979e62bc)](https://near-apparatus-275.notion.site/ee18830c71e144359e3d07d4979e62bc)
-[![42Seoul](https://img.shields.io/badge/42Seoul-000000?style=plastic&logo=42&logoColor=white)](https://near-apparatus-275.notion.site/42Seoul-4c36f9de4b094ffd8c0174bb54ae6240)
+[![Tech Blog Badge](http://img.shields.io/badge/-My%20Tech%20blog-A9225C?style=plastic&logo=Notion&link=https://near-apparatus-275.notion.site/ee18830c71e144359e3d07d4979e62bc)](https://near-apparatus-275.notion.site/ee18830c71e144359e3d07d4979e62bc)
+<!--[![42Seoul](https://img.shields.io/badge/42Seoul-000000?style=plastic&logo=42&logoColor=white)](https://near-apparatus-275.notion.site/42Seoul-4c36f9de4b094ffd8c0174bb54ae6240)
   
 <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=Spring Boot&logoColor=white"/></a>&nbsp; 
