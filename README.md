@@ -25,7 +25,8 @@ ___
 <!--### :mag_right: Solved.ac &nbsp; &nbsp; -->
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=lch9502)](https://solved.ac/lch9502)  
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=lch9502)](https://solved.ac/lch9502)
+<!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=lch9502)](https://solved.ac/lch9502)-->
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lch9502)](https://solved.ac/lch9502)
 
 
 
