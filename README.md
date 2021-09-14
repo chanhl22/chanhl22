@@ -10,7 +10,9 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=Amazon AWS&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"/></a>&nbsp;-->
 
-<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/chanhl22%2Fgjbae1212%2Fhit-counter&title=VISIT)](https://github.com/chanhl22)&nbsp;
+<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/chanhl22%2Fgjbae1212%2Fhit-counter&title=VISIT)](https://github.com/chanhl22)&nbsp;   
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://near-apparatus-275.notion.site/ee18830c71e144359e3d07d4979e62bc%2Fgjbae1212%2Fhit-counter&title=VISIT)](https://near-apparatus-275.notion.site/ee18830c71e144359e3d07d4979e62bc)&nbsp;   
+
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp; 
