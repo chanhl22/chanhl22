@@ -2,9 +2,12 @@
 
 ### Hi there 👋  
 [![Tech Blog Badge](http://img.shields.io/badge/-My%20blog-A9225C?style=plastic&logo=Notion&link=https://chanhl22.notion.site/ee18830c71e144359e3d07d4979e62bc)](https://chanhl22.notion.site/ee18830c71e144359e3d07d4979e62bc)
+
+<!--
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_brown.svg" />
 </a>
+-->
 <!--[![42Seoul](https://img.shields.io/badge/42Seoul-000000?style=plastic&logo=42&logoColor=white)](https://near-apparatus-275.notion.site/42Seoul-4c36f9de4b094ffd8c0174bb54ae6240)
   
 <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/></a>&nbsp;
